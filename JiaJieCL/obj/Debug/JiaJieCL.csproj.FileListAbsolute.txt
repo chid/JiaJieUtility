@@ -1,0 +1,5 @@
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieCL\bin\Debug\JiaJieCL.dll
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieCL\bin\Debug\JiaJieCL.pdb
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieCL\obj\Debug\ResolveAssemblyReference.cache
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieCL\obj\Debug\JiaJieCL.dll
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieCL\obj\Debug\JiaJieCL.pdb

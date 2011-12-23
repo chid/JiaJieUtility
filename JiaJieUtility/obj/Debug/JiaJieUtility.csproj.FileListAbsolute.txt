@@ -1,0 +1,9 @@
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\bin\Debug\JiaJieUtility.exe
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\bin\Debug\JiaJieUtility.pdb
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\bin\Debug\JiaJieCL.dll
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\bin\Debug\JiaJieCL.pdb
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.exe
+D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.pdb
+D:\job_sourceCodes\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.exe
+D:\job_sourceCodes\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.pdb
