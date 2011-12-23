@@ -1,0 +1,6 @@
+C:\Documents and Settings\x73\JiaJieUtility\MsSqlDbHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\x73\JiaJieUtility\MsSqlDbHelper\bin\Debug\MsSqlDbHelper.dll
+C:\Documents and Settings\x73\JiaJieUtility\MsSqlDbHelper\bin\Debug\MsSqlDbHelper.pdb
+C:\Documents and Settings\x73\JiaJieUtility\MsSqlDbHelper\obj\Debug\MsSqlDbHelper.dll
+C:\Documents and Settings\x73\JiaJieUtility\MsSqlDbHelper\obj\Debug\MsSqlDbHelper.pdb
+C:\Documents and Settings\x73\JiaJieUtility\MsSqlDbHelper\bin\Debug\MsSqlDbHelper.dll.config

@@ -7,3 +7,10 @@ D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.exe
 D:\jobs_sourcecode\DW\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.pdb
 D:\job_sourceCodes\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.exe
 D:\job_sourceCodes\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.pdb
+C:\Documents and Settings\x73\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.exe
+C:\Documents and Settings\x73\JiaJieUtility\JiaJieUtility\obj\Debug\JiaJieUtility.pdb
+C:\Documents and Settings\x73\JiaJieUtility\JiaJieUtility\bin\Debug\JiaJieUtility.exe
+C:\Documents and Settings\x73\JiaJieUtility\JiaJieUtility\bin\Debug\JiaJieUtility.pdb
+C:\Documents and Settings\x73\JiaJieUtility\JiaJieUtility\bin\Debug\JiaJieCL.dll
+C:\Documents and Settings\x73\JiaJieUtility\JiaJieUtility\bin\Debug\JiaJieCL.pdb
+C:\Documents and Settings\x73\JiaJieUtility\JiaJieUtility\obj\Debug\ResolveAssemblyReference.cache
